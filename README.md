@@ -6,3 +6,5 @@ games maybe
 Snake game built with `p5js`
 
 ![gif](./snake/snake.gif)
+
+`TODO: Bugs..`
