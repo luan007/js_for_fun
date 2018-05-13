@@ -7,4 +7,12 @@ Snake game built with `p5js`
 
 ![gif](./snake/snake.gif)
 
-`TODO: Bugs..`
+
+# ./fps (Unfinished)
+topdown fps game built with `p5js`
+----
+*WANRING: STILL WIP*
+
+![gif](./fps/blocks.gif)
+
+`TODO: Finish the game..`
